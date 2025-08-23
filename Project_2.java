@@ -3,6 +3,7 @@ import java.util.Scanner;
 import java.util.Random;
 public class Project_2 {
     public static void main(String[] args) {
+        // Number Guessing Game
         Scanner s=new Scanner(System.in);
         Random ran=new Random();
         int rnm=ran.nextInt(100)+1;
