@@ -51,3 +51,30 @@ public class ForPractise {
         l.showAvailableBooks();
         }
     }
+
+output:
+dsa has been added!
+c++ has been added!
+java has been added!
+sql has been added!
+linux has been added!
+Available books are:
+*dsa
+*c++
+*java
+*sql
+*linux
+sql has been issued
+Available books are:
+*dsa
+*c++
+*java
+*linux
+sql has been added!
+Available books are:
+*dsa
+*c++
+*java
+*linux
+*sql
+
